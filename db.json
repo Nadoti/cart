@@ -1,0 +1,52 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Audi A1",
+      "preco": 700000,
+      "image": "https://looplex-aws-storage.s3.sa-east-1.amazonaws.com/audi-a1.png"
+    },
+    {
+      "id": 2,
+      "name": "BMW M3",
+      "preco": 800000,
+      "image": "https://looplex-aws-storage.s3.sa-east-1.amazonaws.com/bmw-m3.png"
+    },
+    {
+      "id": 3,
+      "name": "BMW Supra",
+      "preco": 400000,
+      "image": "https://looplex-aws-storage.s3.sa-east-1.amazonaws.com/bmw-supra.png"
+    },
+    {
+      "id": 4,
+      "name": "BMW XX2",
+      "preco": 900000,
+      "image": "https://looplex-aws-storage.s3.sa-east-1.amazonaws.com/bmw-xx2.png"
+    },
+    {
+      "id": 5,
+      "name": "Ferrari GTB 4",
+      "preco": 1400000,
+      "image": "https://looplex-aws-storage.s3.sa-east-1.amazonaws.com/ferrari-gtb4.png"
+    },
+    {
+      "id": 6,
+      "name": "Ford Mustang 350",
+      "preco": 700000,
+      "image": "https://looplex-aws-storage.s3.sa-east-1.amazonaws.com/ford-mustange350.png"
+    },
+    {
+      "id": 7,
+      "name": "Shelby GT500",
+      "preco": 850000,
+      "image": "https://looplex-aws-storage.s3.sa-east-1.amazonaws.com/shelby-gt500.png"
+    },
+    {
+      "id": 8,
+      "name": "Toyota L4",
+      "preco": 550000,
+      "image": "https://looplex-aws-storage.s3.sa-east-1.amazonaws.com/toyota-l4.png"
+    }
+  ]
+}
